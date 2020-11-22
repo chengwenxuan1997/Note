@@ -1,3 +1,2 @@
 # Note
-Note about applied statistics\\
-Just a framework now,please wait
+Note about applied statistics  Just a framework now,please wait
